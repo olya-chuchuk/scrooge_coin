@@ -60,4 +60,3 @@ Add additional notes about how to deploy this on a live system
 
 For the insider look into the Scrooge Coin system read the following:
 * [Architecture](Architecture.md)
-* [Documentation](doc/index.html)
