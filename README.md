@@ -58,5 +58,5 @@ Add additional notes about how to deploy this on a live system
 
 ## Documentation
 
-For the inside look into the Scrooge Coin system read following:
+For the insider look into the Scrooge Coin system read the following:
 * [Architecture](Architecture.md)
